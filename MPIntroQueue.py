@@ -50,4 +50,3 @@ if __name__ == '__main__':
 	pencetak_1.join()
 	pencetak_2.join()
 	print('Total running time {}'.format(et-st))
-	
