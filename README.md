@@ -6,6 +6,7 @@ Pada repository ini, terdapat sejumlah source code pengenalan bahasa Python
 - [x] Dasar GUI
 - [x] Dasar Multi Processing : Queue
 - [x] Dictionary dalam MultiProcessing
+- [x] Array dalam MultiProcessing
 - [x] Contoh proyek python
 
 Semoga bermanfaat :)
